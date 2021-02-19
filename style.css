@@ -1,0 +1,21 @@
+/*.col_service:hover{
+    margin-top: 0.1rem;
+    transition-duration: 0.3s;
+    border-radius: 0.5rem;
+}*/
+img{
+    height: 13rem;
+    width:15rem;
+}
+.nav_menu:hover{
+    text-decoration: underline;
+    color:rgb(209, 192, 192);
+}
+.service_section{
+    background:url('3NIEQB3SFVCMNHH6MHZ42FO6PA.jpg') no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+nav a:hover{
+    text-decoration: none;
+}
